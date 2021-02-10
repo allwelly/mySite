@@ -79,7 +79,7 @@ p {
     color: #214151;
     line-height: 300%;
     text-align: justify;
-    text-justify: auto;
+    text-justify: inter-character;
 }
 .skill-row {
     width: 50%;
