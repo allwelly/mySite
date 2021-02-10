@@ -78,13 +78,12 @@ p {
     font-family: 'Lato', sans-serif;
     color: #214151;
     line-height: 300%;
-    text-align: justify;
-    text-justify: inter-character;
 }
 .skill-row {
     width: 50%;
     margin: 10% auto;
-    text-align: left;
+    text-align: justify;
+    text-justify: inter-character;  
 }
 .web {
     float: left;
