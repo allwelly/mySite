@@ -78,6 +78,7 @@ p {
     font-family: 'Lato', sans-serif;
     color: #214151;
     line-height: 300%;
+    text-align: justify;
 }
 .skill-row {
     width: 50%;
